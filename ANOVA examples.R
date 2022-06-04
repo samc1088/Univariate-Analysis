@@ -33,4 +33,3 @@ splitplot <- aov (Yield ~ Block + Variety * Harvest + Error(Block:Variety),
                   data = splitharvest)
 summary(splitplot)
 
-summary(fm1 <- aov(Yield ~ Block + Variety * Harvest + Error(Block:Variety), data = oat.yield))
