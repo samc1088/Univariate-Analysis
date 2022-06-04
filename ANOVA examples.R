@@ -12,6 +12,7 @@ oneway <- aov(onemush$Mushroom_Diameter ~ onemush$Log_Type)
 
 summary(oneway)
 
+TukeyHSD(oneway)
 
 
 fucus <- read_csv("fucus.csv")
