@@ -1,0 +1,13 @@
+Experiment,Species,Light,Chl_a
+First,F.vesiculosis,PAR ,2.7
+First,F.spiralis,PAR,1.6
+First,F.vesiculosis,PAR UV,1.6
+First,F.spiralis,PAR UV,2.6
+First,F.vesiculosis,PAR UVB,2.3
+First,F.spiralis,PAR UVB,2.2
+Second,F.vesiculosis,PAR ,3.1
+Second,F.spiralis,PAR,1.8
+Second,F.vesiculosis,PAR UV,2.1
+Second,F.spiralis,PAR UV,3
+Second,F.vesiculosis,PAR UVB,2.3
+Second,F.spiralis,PAR UVB,2.4
